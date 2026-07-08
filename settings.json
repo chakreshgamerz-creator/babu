@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "babu",
+    "password": "apple",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "smp1-ubux.aternos.me",
+    "port": 26495,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
